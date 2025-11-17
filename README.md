@@ -1,1 +1,2 @@
-# nlp_lyrics
+# Natural Language Processing for Lyrics
+This repository demonstrates my computational research at the Division of the Social Sciences at University of Chicago. The project is a collaborative effort of a team of researchers, led by Prof. Jean Clipperton. We use cutting-edge methods in natural language processing and advanced language models to identify lyrical themes in pop music, detect nuanced sentiment, and create illustrative visualizations. The full code will be available once the paper is pubished.
